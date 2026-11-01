@@ -23,7 +23,7 @@ and I run local LLM inference on my own hardware.
   [EPEVER-Dual-ESPHome](https://github.com/7hemas7er/EPEVER-Dual-ESPHome): Home
   Assistant add-ons and ESPHome configs for a solar and battery setup.
 - [txt2kg](https://github.com/7hemas7er/txt2kg): NVIDIA's txt2kg knowledge-graph
-  playbook adapted to local inference on a DGX Spark (Ollama, Qdrant).
+  playbook adapted to fully local inference (Ollama, Qdrant).
 - [segugio](https://github.com/7hemas7er/segugio): live scoring and OBS overlays for
   dog-sport competitions.
 - [meccanico](https://github.com/7hemas7er/meccanico): vehicle maintenance tracker with
