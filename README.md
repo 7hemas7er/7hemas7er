@@ -12,6 +12,9 @@ and I run local LLM inference on my own hardware.
   (issue #945, PR #946).
 
 **Public projects**
+- [atlas](https://github.com/7hemas7er/atlas): 10-20 autonomous LLM agents surviving,
+  trading and passing on culture in a persistent 2D world, run entirely on local
+  hardware; 1,100+ commits of plans and measured results.
 - [guardrail](https://github.com/7hemas7er/guardrail) and
   [jev-hooks](https://github.com/7hemas7er/jev-hooks): safety rules and a commit
   reviewer for coding agents.
