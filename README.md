@@ -22,5 +22,13 @@ and I run local LLM inference on my own hardware.
   [BatteryGuard-Seplos](https://github.com/7hemas7er/BatteryGuard-Seplos),
   [EPEVER-Dual-ESPHome](https://github.com/7hemas7er/EPEVER-Dual-ESPHome): Home
   Assistant add-ons and ESPHome configs for a solar and battery setup.
+- [txt2kg](https://github.com/7hemas7er/txt2kg): NVIDIA's txt2kg knowledge-graph
+  playbook adapted to local inference on a DGX Spark (Ollama, Qdrant).
+- [segugio](https://github.com/7hemas7er/segugio): live scoring and OBS overlays for
+  dog-sport competitions.
+- [meccanico](https://github.com/7hemas7er/meccanico): vehicle maintenance tracker with
+  a QR code per vehicle (FastAPI, SQLite).
 - [barcode-decoder](https://github.com/7hemas7er/barcode-decoder),
-  [boarding-pass-tracker](https://github.com/7hemas7er/boarding-pass-tracker).
+  [boarding-pass-tracker](https://github.com/7hemas7er/boarding-pass-tracker),
+  [lootmax](https://github.com/7hemas7er/lootmax) (Marlin configs for a Lotmaxx SC-10
+  3D printer).
