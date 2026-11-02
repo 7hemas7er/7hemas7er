@@ -18,6 +18,9 @@ and I run local LLM inference on my own hardware.
 - [guardrail](https://github.com/7hemas7er/guardrail) and
   [jev-hooks](https://github.com/7hemas7er/jev-hooks): safety rules and a commit
   reviewer for coding agents.
+- [assist-italian-stt](https://github.com/7hemas7er/assist-italian-stt): Italian speech-to-text
+  for Home Assistant Assist, Parakeet v3 in the stock Wyoming image, measured on read speech and
+  on real far-field commands.
 - [autolog-addon](https://github.com/7hemas7er/autolog-addon),
   [BatteryGuard-Seplos](https://github.com/7hemas7er/BatteryGuard-Seplos),
   [EPEVER-Dual-ESPHome](https://github.com/7hemas7er/EPEVER-Dual-ESPHome): Home
